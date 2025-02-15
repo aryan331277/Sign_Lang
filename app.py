@@ -45,7 +45,7 @@ with col2:
         st.success("Gesture Detection selected!")
         st.image("https://via.placeholder.com/400", caption="Gesture Recognition in Action")  # Placeholder image
 
-    if st.button("🌍 Contextual Environmental Detection"):
+    if st.button("🌍 Contextual Environment Detection"):
         st.success("Contextual Environmental Detection selected!")
         st.image("https://via.placeholder.com/400", caption="Environment Analysis in Action")  # Placeholder image
 
