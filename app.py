@@ -48,4 +48,3 @@ with col3:
 
 # Footer
 st.markdown("---")
-st.markdown("📌 **Developed by Aryan** | Powered by **Streamlit & AI**")
